@@ -14,7 +14,7 @@ Fokus é uma página web inspirada na técnica Pomodoro, que visa a concentraç�
 
 ## Acesso
 
-Acesse o projeto [clicando aqui](link_do_seu_projeto).
+Acesse o projeto [clicando aqui](https://fokus-rose.vercel.app/).
 
 ## Tecnologias Utilizadas
 
